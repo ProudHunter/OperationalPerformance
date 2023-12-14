@@ -1,0 +1,1 @@
+hobbit-core[hobbit,hobbit_core]==3.1.1
