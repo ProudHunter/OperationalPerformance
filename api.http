@@ -1,0 +1,4 @@
+POST http://127.0.0.1:5000/executor/prompt
+Content-Type: application/json
+
+{"device_condition":  {"ip":  "192.168.31.149"}}
