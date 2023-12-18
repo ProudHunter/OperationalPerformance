@@ -6,3 +6,4 @@
 ui/
 .test/
 logs/
+/.idea/
